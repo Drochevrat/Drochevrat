@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drochevrat
+- 👋 Hi, I’m @Vladimir
 - 👀 I’m interested in programming, math, medicine, physics and biology. 
 - 🌱 I’m currently learning C++(Arduino version), Python.
 - 💞️ I’m looking to collaborate on gaming and app sphere. 
